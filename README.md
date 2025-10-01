@@ -111,3 +111,64 @@ curl -X DELETE http://127.0.0.1:8000/api/v1/quizzes/1/
 
 
 # 📌 SEGUNDA PARTE: Quiz CRUD
+# Medina Mallqui Ailyn:
+  ### Create quiz 
+<img width="580" height="147" alt="image" src="https://github.com/user-attachments/assets/742e7523-c2e7-41ab-a54b-4051c31d51bb" />
+<img width="416" height="207" alt="image" src="https://github.com/user-attachments/assets/64c6fdcc-1539-4735-8994-2aa7522ab5a0" />
+
+ ### Create question
+<img width="429" height="106" alt="image" src="https://github.com/user-attachments/assets/78300491-351e-4580-ac6a-150b330b67b8" />
+<img width="412" height="250" alt="image" src="https://github.com/user-attachments/assets/30b5dae1-fad1-40d0-9fff-299cc4f3ea51" />
+
+### Create correct choice
+<img width="423" height="112" alt="image" src="https://github.com/user-attachments/assets/ff1704f4-11fa-4d3f-a112-f24138c7077e" />
+
+### Create incorrect choice
+<img width="458" height="92" alt="image" src="https://github.com/user-attachments/assets/802d3820-36d0-4abf-9c7a-32e85da558be" />
+
+###  List all questions
+<img width="427" height="263" alt="image" src="https://github.com/user-attachments/assets/56c4fd5b-6417-4e6f-ab20-42d90875257e" />
+
+###  List all choices
+<img width="453" height="389" alt="image" src="https://github.com/user-attachments/assets/7e41943e-ffd6-42c4-ab41-fa0c0706b338" />
+
+
+--- 
+# Toledo La Fuente Luis:
+### Create quiz 
+
+
+### Create question
+
+
+### Create correct choice
+
+
+### Create incorrect choice
+
+
+###  List all questions
+
+
+###  List all choices
+
+
+--- 
+
+# Moya Condori Maria Fernanda 
+### Create quiz 
+
+
+### Create question
+
+
+### Create correct choice
+
+
+### Create incorrect choice
+
+
+###  List all questions
+
+
+###  List all choices
