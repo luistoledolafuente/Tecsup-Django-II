@@ -201,3 +201,31 @@ curl http://127.0.0.1:8000/api/v1/choices/
     <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/0ff5d266-179a-4bcd-b356-9fba4eff6d40" /><br>
     <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/0dd9c885-bea0-4084-9d77-4a22d24681c1" />
   </p>
+  
+  --- 
+# 📌 TERCERA PARTE:  Answer Validation.
+
+###  Test Part 2
+```bash
+# Get complete quiz with questions
+curl http://127.0.0.1:8000/api/v1/quizzes/2/
+
+# Submit answers
+curl -X POST http://127.0.0.1:8000/api/v1/quizzes/2/submit/ \
+  -H "Content-Type: application/json" \
+  -d '{
+    "answers": [
+      {"question_id": 1, "choice_id": 1},
+      {"question_id": 2, "choice_id": 3}
+    ]
+  }'
+```
+## • Medina Mallqui Ailyn:
+#### Get complete quiz with questions
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/59bf6611-6c83-4179-83b0-710d80d52cea" />
+
+#### Submit answers
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d8cc8a70-f6a5-4a7b-8a84-0f7bb6334170" /> <br>
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/13a5f3e4-ea07-44e5-a3e9-dd33da84df83" />
+
+
